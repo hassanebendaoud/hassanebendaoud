@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassane Bendaoud</h1>
 <h3 align="center">A Full-Stack Developer from Algeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanebendaoud&label=Profile%20views&color=0e75b6&style=flat" alt="hassanebendaoud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanebendaoud" alt="hassanebendaoud" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 - 🔭 I’m currently working on **Personal Projects**
@@ -37,6 +33,9 @@
 <p><a href="https://www.buymeacoffee.com/hassanebendaoud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hassanebendaoud" /></a><a href="https://ko-fi.com/hassanebendaoud"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hassanebendaoud" /></a></p><br><br>
 
 <br/>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanebendaoud" alt="hassanebendaoud" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanebendaoud&show_icons=true&locale=en&layout=compact" alt="hassanebendaoud" /></p>
 
