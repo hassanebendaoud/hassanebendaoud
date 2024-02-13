@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **T3 Stack Projects**
 
-- 🌱 I’m currently learning **new Framworks**
+- 🌱 I’m currently using **T3 stack**
 
-- 💬 Ask me about **Next.js, MEARN**
+- 💬 Ask me about **T3 stack**
 
-- ⚡ Fun fact **I hate Coding**
+- ⚡ Fun fact **I Love T3 stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
